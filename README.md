@@ -1,6 +1,8 @@
 # Case-Expansao-de-Uma-Rede-de-Laboratorios 🔬
 A medicina diagnóstica é essencial na prestação de cuidados de saúde em todo o mundo e representa um mercado significativo, especialmente nos Estados Unidos, onde tem um valor estimado de 106 bilhões de dólares e mais de 40 mil laboratórios, com uma força de trabalho de mais de 680 mil funcionários de acordo com a ACLA. O objetivo deste estudo é apoiar uma empresa especializada em medicina diagnóstica nos EUA em seu plano de expansão da rede de laboratórios.
 
+*Obs: É recomendada a observação deste projeto através do Google Colab para uma experiência completa. Devido às limitações do GitHub, alguns gráficos e mapas podem não ser exibidos corretamente aqui.*
+
 # Descrição do Projeto 📝
 O projeto foi realizado a partir de 5 bases de dados (3 sobre a rede de laboratórios e 2 sobre a população dos EUA). Inicialmente foi feita a parte de **pré-processamento dos dados**, incluindo a limpeza, normalização, tratamento e as demais etapas prévias à análise. Posteriormente, formulei algumas perguntas a serem respondidas durante a análise, sendo elas:
 - Qual é o perfil do principal público alvo? (idade, gênero)
